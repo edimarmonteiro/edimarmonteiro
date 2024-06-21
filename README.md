@@ -7,10 +7,12 @@
 
 ----
 
-<h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,javascript,python,typescript,selenium,docker,postgresql,vscode,github,git" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,typescript,nodejs,opencv,selenium,docker,postgresql,vscode,github,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="50" height="50"/>
 </div>
 
 ----
