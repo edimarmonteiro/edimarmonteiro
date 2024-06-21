@@ -5,17 +5,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimarmonteiro&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
+----
+
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,javascript,python,typescript,selenium,playwright,postgresql,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,typescript,selenium,docker,postgresql,vscode,github,git" />
 </div>
 
+----
+
+<h3 align="center">Contact Me:<h3/>
+<div align="center">
   
-  ##
- <div> 
-  <a href="https://www.linkedin.com/in/edimar-pires-monteiro-filho-1b8534231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <a href = "mailto:edimarfilho971@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- </div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/edimar-pires-monteiro-filho-1b8534231/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/edimarfilho971/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:edimarfilho971@gmail.com)
+
+
+</div>
