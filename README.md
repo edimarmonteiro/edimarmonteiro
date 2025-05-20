@@ -10,7 +10,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,opencv,docker,postgresql,vscode,github,git,selenium" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,vscode,github,git,selenium" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="50" height="50"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="50" height="50"/>
 </div>
@@ -25,7 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/edimarfilho971/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:edimarfilho971@gmail.com)
+)](mailto:edimarfreelancer@gmail.com)
 
 
 </div>
